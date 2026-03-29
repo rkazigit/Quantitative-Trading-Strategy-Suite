@@ -1,4 +1,4 @@
-# 📈 Quantitative Trading Strategy Suite
+# Quantitative Trading Strategy Suite
 
 > **Dual-Class Arbitrage · Bollinger Bands · Reinforcement Learning · Sector Pairs**  
 > Four production-grade algorithmic trading strategies with shared backtesting engine, realistic execution costs, and rich visualizations.
